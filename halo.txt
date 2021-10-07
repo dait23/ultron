@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello Master
+=======
+Hello Master from Feature halo
+Hello again in release
+>>>>>>> 0.0.1
